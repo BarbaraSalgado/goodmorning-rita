@@ -1,6 +1,6 @@
 {
 "name": "rita",
-"message": "good morning"
-"age": "23"
-"animal": "leo"
+"message": "good morning",
+"age":"23",
+"animal":"leo"
 }
